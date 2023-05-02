@@ -5,5 +5,6 @@ public class MyHomePage {
 
     // nav menu
 
+//more things for homePage
 
 }
