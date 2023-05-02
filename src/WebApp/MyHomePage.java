@@ -7,4 +7,6 @@ public class MyHomePage {
 
 //more things for homePage
 
+    // add more things
+
 }
